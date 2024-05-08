@@ -1,6 +1,7 @@
 # Portfolio Website
 
-![hireweb](https://github.com/Lavnishcoder/Portfolio_Website/assets/113276865/191de61a-ce85-41a8-9ba0-bb1657226c26)
+![Alt text](My_New_Portfolio.jpg "Optional title")
+
 
 
 "Immerse yourself in the embodiment of my professional identity through the meticulously crafted personal portfolio website I've developed using HTML, CSS, and JavaScript. This digital canvas not only showcases my technical prowess but also encapsulates my creative spirit, offering a comprehensive glimpse into my skills, experiences, and aspirations.
