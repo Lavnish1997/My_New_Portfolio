@@ -1,6 +1,6 @@
 # Portfolio Website
 
-![Alt text](Front_Page_Img.jpg "Optional title")
+![Alt text](Front_Page_Img.png "Optional title")
 
 
 
